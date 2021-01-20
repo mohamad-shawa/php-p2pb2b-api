@@ -12,8 +12,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.2",
-        "guzzlehttp/guzzle": "^6.0",
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.2",
         "ext-json": "*"
     },
     "autoload": {
